@@ -1,0 +1,47 @@
+#wrap{
+    width: 1000px;
+    border: 1px solid black;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+header{
+    border: 1px solid black;
+    height: 200px;
+    background: #ccc;
+    margin-bottom: 10px; 
+}
+
+nav{
+    width: 60%;
+    height: 180px;
+    margin: 10px;
+    background: pink;
+    border: 1px solid black;
+   
+}
+
+main{
+    background: rgb(50, 151, 50);
+    height: 200px;
+    border: 1px solid black;
+    margin-bottom: 10px; 
+}
+
+section, article{
+    border: 1px solid black;
+    width:49.3%;
+    height: 400px;
+    float: left;
+    margin-bottom: 10px;
+}
+
+section{
+    margin-right: 10px;
+}
+
+footer{
+    clear: both;
+    border: 1px solid black;
+    height: 150px;
+}
